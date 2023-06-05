@@ -1,0 +1,86 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/munch/OneDrive/Desktop/Assignments_Homeworks/Sophmore_Year/Semester_2/ECE_385/Week_10/PLEASE_WORK/simulation/modelsim
+vball
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1679624138
+!i10b 1
+!s100 RHC]^6Z5FHTALOg35UZ?A3
+IVDFC1CmYBVboL2Ihml]8k0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 ball_sv_unit
+S1
+R0
+Z4 w1679599922
+8C:/Users/munch/OneDrive/Desktop/Assignments_Homeworks/Sophmore_Year/Semester_2/ECE_385/Week_10/PLEASE_WORK/Lab 62 provided files/ball.sv
+FC:/Users/munch/OneDrive/Desktop/Assignments_Homeworks/Sophmore_Year/Semester_2/ECE_385/Week_10/PLEASE_WORK/Lab 62 provided files/ball.sv
+L0 16
+Z5 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z6 !s108 1679624138.000000
+!s107 C:/Users/munch/OneDrive/Desktop/Assignments_Homeworks/Sophmore_Year/Semester_2/ECE_385/Week_10/PLEASE_WORK/Lab 62 provided files/ball.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/munch/OneDrive/Desktop/Assignments_Homeworks/Sophmore_Year/Semester_2/ECE_385/Week_10/PLEASE_WORK/Lab 62 provided files|C:/Users/munch/OneDrive/Desktop/Assignments_Homeworks/Sophmore_Year/Semester_2/ECE_385/Week_10/PLEASE_WORK/Lab 62 provided files/ball.sv|
+!i113 1
+Z7 o-sv -work work
+Z8 !s92 -sv -work work {+incdir+C:/Users/munch/OneDrive/Desktop/Assignments_Homeworks/Sophmore_Year/Semester_2/ECE_385/Week_10/PLEASE_WORK/Lab 62 provided files}
+Z9 tCvgOpt 0
+vHexDriver
+R1
+R2
+!i10b 1
+!s100 hKBo4zbCRmY3[Ac9JZP;<0
+IjG[E8;9c8b0d=;A=PBAWE2
+R3
+!s105 HexDriver_sv_unit
+S1
+R0
+R4
+8C:/Users/munch/OneDrive/Desktop/Assignments_Homeworks/Sophmore_Year/Semester_2/ECE_385/Week_10/PLEASE_WORK/Lab 62 provided files/HexDriver.sv
+FC:/Users/munch/OneDrive/Desktop/Assignments_Homeworks/Sophmore_Year/Semester_2/ECE_385/Week_10/PLEASE_WORK/Lab 62 provided files/HexDriver.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/munch/OneDrive/Desktop/Assignments_Homeworks/Sophmore_Year/Semester_2/ECE_385/Week_10/PLEASE_WORK/Lab 62 provided files/HexDriver.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/munch/OneDrive/Desktop/Assignments_Homeworks/Sophmore_Year/Semester_2/ECE_385/Week_10/PLEASE_WORK/Lab 62 provided files|C:/Users/munch/OneDrive/Desktop/Assignments_Homeworks/Sophmore_Year/Semester_2/ECE_385/Week_10/PLEASE_WORK/Lab 62 provided files/HexDriver.sv|
+!i113 1
+R7
+R8
+R9
+n@hex@driver
+vlab62
+R1
+R2
+!i10b 1
+!s100 CF_R@8m=Tk4gCAbmzCF0f0
+IX@Jgz27YFm?8WhfX5Mmno3
+R3
+!s105 lab62_sv_unit
+S1
+R0
+R4
+8C:/Users/munch/OneDrive/Desktop/Assignments_Homeworks/Sophmore_Year/Semester_2/ECE_385/Week_10/PLEASE_WORK/Lab 62 provided files/lab62.sv
+FC:/Users/munch/OneDrive/Desktop/Assignments_Homeworks/Sophmore_Year/Semester_2/ECE_385/Week_10/PLEASE_WORK/Lab 62 provided files/lab62.sv
+L0 9
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/munch/OneDrive/Desktop/Assignments_Homeworks/Sophmore_Year/Semester_2/ECE_385/Week_10/PLEASE_WORK/Lab 62 provided files/lab62.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/munch/OneDrive/Desktop/Assignments_Homeworks/Sophmore_Year/Semester_2/ECE_385/Week_10/PLEASE_WORK/Lab 62 provided files|C:/Users/munch/OneDrive/Desktop/Assignments_Homeworks/Sophmore_Year/Semester_2/ECE_385/Week_10/PLEASE_WORK/Lab 62 provided files/lab62.sv|
+!i113 1
+R7
+R8
+R9
